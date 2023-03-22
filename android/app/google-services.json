@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "199988939048",
+    "firebase_url": "https://alumni-track-b0bf8-default-rtdb.firebaseio.com",
+    "project_id": "alumni-track-b0bf8",
+    "storage_bucket": "alumni-track-b0bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199988939048:android:32ae865248d8abf944681d",
+        "android_client_info": {
+          "package_name": "com.example.alumni_tracking_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199988939048-ccrtp107te777nbe8297av67igjrdr12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYEJprJmUJWo7OqXMYLrf9k1Wkm1FNps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199988939048-ccrtp107te777nbe8297av67igjrdr12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199988939048:android:51f3b05a7300492144681d",
+        "android_client_info": {
+          "package_name": "np.com.asbin.digimole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199988939048-ccrtp107te777nbe8297av67igjrdr12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYEJprJmUJWo7OqXMYLrf9k1Wkm1FNps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199988939048-ccrtp107te777nbe8297av67igjrdr12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
